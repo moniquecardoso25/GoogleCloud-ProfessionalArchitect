@@ -8,7 +8,7 @@ Welcome to my Google Cloud Computing Repository! It contains the folders of my C
 
 ## Projects
 
-### 1. [Create and Manage Cloud Resources](https://github.com/moniquecardoso25/Google-Cloud/tree/main/Create%20and%20Manage%20Cloud%20Resources/README.md)
+### 1. [Create and Manage Cloud Resources](https://github.com/moniquecardoso25/Google-Cloud/tree/main/Create%20and%20Manage%20Cloud%20Resources)
 
 Description: Create an instance and host a website in the Cloud.
 
